@@ -6,7 +6,7 @@ As part of my final-mile preparation for data engineering roles, I'm documenting
 
 ## What I Did Today:
 
-Today, I watched the **first hour** of the 3-hour **Data Engineering Masterclass by Darshil Parmar** on YouTube. My aim was to solidify core concepts and refresh my understanding of real-world data engineering workflows.
+Today, I watched the 3-hour **Data Engineering Masterclass by Darshil Parmar** on YouTube. My aim was to solidify core concepts and refresh my understanding of real-world data engineering workflows.
 
 ---
 
@@ -22,7 +22,7 @@ Here are some of the key concepts I noted from the session:
 - Role of data marts and data lakes in modern data pipelines
 - High-level view of building data architecture with business-first thinking
 
-Full notes are available in the `notes.md` file in this folder.
+I have noted many points, and I made them available in the `notes.md` file in this folder.
 
 ---
 
